@@ -1,0 +1,1 @@
+![Terminal intro](terminal.svg)
