@@ -1,1 +1,1 @@
-![terminal](./terminal.svg)
+![Terminal intro](terminal.svg)
